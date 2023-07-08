@@ -1,7 +1,7 @@
-[![MasterHead] (https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
 <h1 align="center">Hi 👋, I'm Jatin Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img aling="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin009v&label=Profile%20views&color=0e75b6&style=flat" alt="jatin009v" /> </p>
 
