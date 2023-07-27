@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@guptaji7932" target="blank"><img src="https://img.shields.io/twitter/follow/@guptaji7932?logo=twitter&style=for-the-badge" alt="@guptaji7932" /></a> </p>
 
-- 🔭 I’m currently working on **Android app**
+- 🔭 I’m currently working on **Full Stack Development **
 
 - 🌱 I’m currently learning **Angular / JS / Python / CSS / Reactjs**
 
