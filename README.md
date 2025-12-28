@@ -54,23 +54,16 @@ I am passionate about building secure, scalable applications and contributing to
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jatin009v/jatin009v/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jatin009v/jatin009v/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/jatin009v/jatin009v/output/github-snake.svg" />
-  </picture>
-</p>
+
 
 ---
 
 ## 🌐 Connect with me
 <p>
-  <a href="https://www.linkedin.com/in/jatingupta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jatingupta09/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://jatinguptaportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="https://linktr.ee/jatingupta"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
-  <a href="mailto:jatincsma22674@csjmu.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linktr.ee/jatin009"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+  <a href="mailto:official.jatingupta09@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
