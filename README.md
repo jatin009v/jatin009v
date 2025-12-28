@@ -31,32 +31,7 @@ I am passionate about building secure, scalable applications and contributing to
   </tr>
 </table>
 
----
 
-## 📊 GitHub Analytics
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jatin009v&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin009v&theme=tokyonight&hide_border=false" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin009v&theme=tokyonight&hide_border=false&layout=compact" height="150px"/>
-</p>
-
-<!-- Profile Summary Card -->
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatin009v&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatin009v&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
-
-
----
 
 ## 🌐 Connect with me
 <p>
