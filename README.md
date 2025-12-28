@@ -1,4 +1,4 @@
-<img src="https://github.com/JatinGupta/JatinGupta/blob/main/Jatin-Banner.png"/>  
+<img src="https://github.com/jatin009v/jatin009v/blob/main/Jatin-Banner.png"/>  
 
 <h1>👋 Hello there, I'm Jatin Gupta</h1>
 <div>
