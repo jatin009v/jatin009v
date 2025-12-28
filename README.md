@@ -1,76 +1,156 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
-<h1 align="center">Hi 👋, I'm Jatin Gupta</h1>
-<h3 align="center">Full Stack Developer | Data Analyst | DevOps Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img src="https://github.com/JatinGupta/JatinGupta/blob/main/Jatin-Banner.png"/>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin009v&label=Profile%20views&color=0e75b6&style=flat" alt="jatin009v" /> </p>
+<h1>👋 Hello there, I'm Jatin Gupta</h1>
+<div>
 
-### 🔥 Highlights
-- **Full Stack Developer** specializing in MERN stack (MongoDB, Express, React, Node.js).
-- **Data Analyst** skilled in Python, SQL, Power BI, and data visualization.
-- **DevOps** experience with Docker, Kubernetes, CI/CD, and cloud infrastructure.
-- **Google Cloud Arcade Achiever** with 163+ badges (2023-2025).
-- **Event Head** at TechFest2k24, CSJM University, leading hackathons and coding events.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0EB4F7&width=700&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Google+Gemini+Student+Ambassador;Open+Source+Contributor;MCA+Student+@CSJMU)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### 🛠️ Skills
-#### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+<table>
+  <tr>
+    <td>
 
-#### Web Development
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+<h1>💫 About Me</h1>
 
-#### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+- 🎓 Pursuing **MCA at CSJM University (Graduating 2027)** with 8.20 CGPA in BCA  
+- 👨‍💻 Skilled in **Full-Stack Development, DevOps & Cybersecurity**  
+- 🔐 Completed **multiple security internships** with hands-on penetration testing  
+- 🤖 **Google Gemini Student Ambassador** for Kanpur Zone (2025-Present)  
+- 🌟 **Active Open Source Contributor** with 20+ PRs and Hacktoberfest Super Contributor status  
+- 🏆 **Hackathon achiever** with 2nd Runner-up in Geek-Week Hackathon 2023  
 
-#### DevOps & Cloud
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+I am passionate about building secure, scalable applications and contributing to meaningful tech solutions while mentoring peers in AI and cybersecurity.
 
-#### Data Analysis
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=power-bi&logoColor=black)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+</td>
+    <td>
+      <img src="https://cdn.dribbble.com/userupload/31153076/file/original-8d91ddeaca87dc4ad26f9c98ce4f7be1.gif" alt="GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🏆 Achievements
-- **Google Cloud Arcade Achiever** (163+ badges, 2023-2025).
-- **2nd Rank** at Geek-Week Hackathon (CSJM University) for developing a convocation info website.
-- **3rd Rank** in District Science Exhibition for an innovative air pollution solution.
-- Led **DevDuel, Code Arena, and Brain Quest** as Event Head at TechFest2k24.
-
----
-
-### 📂 Projects
-- **Real-Time Chat App**: WebSocket, Node.js, React, MongoDB, JWT.
-- **Online Learning Portal**: Node.js, React.js, ClerkAuth, MySQL.
-- **40+ Projects** with live demos: [View Portfolio](https://jatin009v.github.io/Portfolio.com/).
-
----
-
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-gupta-7a5000267)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/jatin_009v)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/jatin009v)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:jatingupta009v@gmail.com)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatin009v&show_icons=true&theme=radical" alt="jatin009v" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin009v&theme=radical" alt="jatin009v" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatin009v&layout=compact&theme=radical" alt="jatin009v" />
+## 📊 GitHub Analytics
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=JatinGupta&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JatinGupta&theme=tokyonight&hide_border=false" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinGupta&theme=tokyonight&hide_border=false&layout=compact" height="150px"/>
 </p>
+
+<!-- Profile Summary Card -->
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JatinGupta&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JatinGupta&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JatinGupta/JatinGupta/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JatinGupta/JatinGupta/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/JatinGupta/JatinGupta/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 🌐 Connect with me
+<p>
+  <a href="https://www.linkedin.com/in/jatingupta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://jatinguptaportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://linktr.ee/jatingupta"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 🧠 Programming Languages  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### ⚛️ Frontend Development  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+### 🗄️ Backend & Databases  
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔐 Cybersecurity & DevOps  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+### ☁️ Cloud & Hosting  
+![Google Cloud](https://img.shields.io/badge/google_cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+## 🏆 Highlights & Achievements
+
+### 🎖️ Leadership Roles
+- **Google Gemini Student Ambassador** - Kanpur Zone (2025-Present)
+- **Secretary** - Code Vidya, Coding Club CSJMU (2025-Present)
+- **Student Mentor** - National Service Scheme (NSS), CSJM University
+- **Event Technical Head** - DCA TechFest 2K24, UIET CSJMU
+
+### 🏅 Hackathons & Competitions
+- **2nd Runner-up** - Geek-Week Hackathon, CSJM University 2023
+- **3rd Rank** - District Science Exhibition 2021 (Pollution Reduction Innovation)
+- **Ranked 13** - Hack AI DevFest 2024
+
+### 📜 Certifications
+- **Gemini Certified Student** – Google AI
+- **The Full Stack Development** – Coursera
+- **Prompt Engineering for ChatGPT** – Coursera
+- **Introduction to Back-End Development** – Meta
+- **230+ Google Arcade Skill Badges** earned
+
+### 💼 Internships
+- **Edunet Foundation** - Front End Web Development (React, Tailwind CSS)
+- **Accenture Nordics** - Software Engineering Simulation
+- **ApexPlanet Software** - Web Development (PHP & MySQL)
+- **TechSaksham (Microsoft & SAP)** - AI Transformative Learning
+- **Vital Skills (IIT Kanpur)** - Security Research
+- **Prodigy Infotech** - Cybersecurity
+
+---
+
+## 📂 Featured Projects
+
+### 🔐 **Live Proctoring System (AI Monitoring)**
+*Next.js • Node.js • Clerk Auth • Drizzle ORM • FaceAPI.js*
+- Secure exam portal with real-time AI proctoring
+- Face detection and cheating prevention algorithms
+- Authentication via Clerk and optimized DB operations
+
+### 📍 **Geo-Location Attendance System**
+*Python • OpenCV • MySQL • Face Recognition*
+- Automated attendance using geofencing and facial recognition
+- 98% recognition accuracy with real-time face detection
+- Secure data storage with MySQL
+
+### 💼 **Prep-Mitr (Placement Preparation Portal)**
+*React • Node.js • Clerk Auth*
+- Centralized platform for CSJMU students
+- ATS resume builder and aptitude preparation materials
+- Internship/job resources aggregation
+
+**[View All Projects →](https://jatinguptaportfolio.netlify.app/projects)**
+
+---
+
+## 📫 Let's Connect!
+- **Portfolio:** [jatinguptaportfolio.netlify.app](https://jatinguptaportfolio.netlify.app)
+- **LinkedIn:** [linkedin.com/in/jatingupta](https://linkedin.com/in/jatingupta)
+- **GitHub:** [github.com/JatinGupta](https://github.com/JatinGupta)
+- **Linktree:** [linktr.ee/jatingupta](https://linktr.ee/jatingupta)
+
+*Open to collaborations on web development, cybersecurity, and open-source projects!*
