@@ -35,21 +35,21 @@ I am passionate about building secure, scalable applications and contributing to
 
 ## 📊 GitHub Analytics
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=JatinGupta&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JatinGupta&theme=tokyonight&hide_border=false" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinGupta&theme=tokyonight&hide_border=false&layout=compact" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jatin009v&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin009v&theme=tokyonight&hide_border=false" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin009v&theme=tokyonight&hide_border=false&layout=compact" height="150px"/>
 </p>
 
 <!-- Profile Summary Card -->
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JatinGupta&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatin009v&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JatinGupta&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatin009v&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
@@ -57,9 +57,9 @@ I am passionate about building secure, scalable applications and contributing to
 ## 🐍 Contribution Snake
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JatinGupta/JatinGupta/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JatinGupta/JatinGupta/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/JatinGupta/JatinGupta/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jatin009v/jatin009v/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jatin009v/jatin009v/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jatin009v/jatin009v/output/github-snake.svg" />
   </picture>
 </p>
 
@@ -70,6 +70,7 @@ I am passionate about building secure, scalable applications and contributing to
   <a href="https://www.linkedin.com/in/jatingupta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://jatinguptaportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="https://linktr.ee/jatingupta"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+  <a href="mailto:jatincsma22674@csjmu.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -150,7 +151,8 @@ I am passionate about building secure, scalable applications and contributing to
 ## 📫 Let's Connect!
 - **Portfolio:** [jatinguptaportfolio.netlify.app](https://jatinguptaportfolio.netlify.app)
 - **LinkedIn:** [linkedin.com/in/jatingupta](https://linkedin.com/in/jatingupta)
-- **GitHub:** [github.com/JatinGupta](https://github.com/JatinGupta)
+- **GitHub:** [github.com/jatin009v](https://github.com/jatin009v)
 - **Linktree:** [linktr.ee/jatingupta](https://linktr.ee/jatingupta)
+- **Email:** jatincsma22674@csjmu.ac.in
 
 *Open to collaborations on web development, cybersecurity, and open-source projects!*
