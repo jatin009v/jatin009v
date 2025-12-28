@@ -137,15 +137,14 @@ I am passionate about building secure, scalable applications and contributing to
 - ATS resume builder and aptitude preparation materials
 - Internship/job resources aggregation
 
-**[View All Projects →](https://jatinguptaportfolio.netlify.app/projects)**
+**[View All Projects →](https://linktr.ee/Jatin_Project)**
 
 ---
 
 ## 📫 Let's Connect!
-- **Portfolio:** [jatinguptaportfolio.netlify.app](https://jatinguptaportfolio.netlify.app)
-- **LinkedIn:** [linkedin.com/in/jatingupta](https://linkedin.com/in/jatingupta)
+- **Portfolio:** [jatinguptaportfolio.netlify.app](https://jatinguptaportfolio.netlify.app/)
+- **LinkedIn:** [linkedin.com/in/jatingupta](https://www.linkedin.com/in/jatingupta09/)
 - **GitHub:** [github.com/jatin009v](https://github.com/jatin009v)
-- **Linktree:** [linktr.ee/jatingupta](https://linktr.ee/jatingupta)
-- **Email:** jatincsma22674@csjmu.ac.in
+- **Email:** official.jatingupta09@gmail.com
 
 *Open to collaborations on web development, cybersecurity, and open-source projects!*
