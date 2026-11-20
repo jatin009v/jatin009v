@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0EB4F7&width=700&lines=Software+Engineer;Full+Stack+Developer;Generative+AI+%26+RAG;DevOps+%26+Cloud+Enthusiast;MCA+%2727+%7C+CSJMU)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0EB4F7&width=800&lines=Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Generative+AI+%26+RAG;Aspiring+Cloud+Engineer;MCA+%2727+%7C+CSJMU)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,13 +18,14 @@
 
 - 🎓 **MCA ’27** at Chhatrapati Shahu Ji Maharaj University (CSJMU), Kanpur  
   (BCA CGPA: **8.20/10** | MCA Sem 2 CGPA: **7.39/10**)
-- 👨‍💻 Software Engineer focused on **Full-Stack Development, Generative AI (RAG), Distributed Systems & Cloud**
-- ☁️ **AWS Student Builder Campus Leader** | Former **Google Gemini Student Ambassador** (’25–’26)
-- 🔐 Hands-on experience in **secure coding, penetration testing, and system hardening**
+- 👨‍💻 **Full Stack Developer** focused on building scalable web applications with modern architectures
+- ☁️ **DevOps & Cloud Enthusiast** — AWS Student Builder Campus Leader | Google Cloud Arcade Legend (310+ Badges)
+- 🤖 Hands-on with **Generative AI (RAG, LangChain)**, Distributed Systems & Cloud-Native technologies
 - 🏆 Active open-source contributor | **Hacktoberfest Super Contributor** | Organized multiple hackathons
 - 🎤 Tech speaker & community lead | Mentored 300+ students through workshops & events
 
-Passionate about building scalable, secure, and intelligent applications while contributing to the developer community.
+Currently building end-to-end solutions across Full Stack, DevOps, and Cloud while actively contributing to the developer community.  
+**Goal:** Become a **Cloud Engineer + Full Stack Engineer** who designs, deploys, and scales intelligent applications.
 
 </td>
     <td width="40%">
@@ -42,6 +43,10 @@ Passionate about building scalable, secure, and intelligent applications while c
   <a href="https://jatinguptaportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="https://github.com/jatin009v"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:official.jatingupta09@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://jatingcpprofile.netlify.app/"><img src="https://img.shields.io/badge/Cloud_Profile-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
+  <a href="https://twitter.com/guptaji7932"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://dev.to/jatin09"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/jatin_009v/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://linktr.ee/Jatin_Project"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 </p>
 
@@ -80,7 +85,9 @@ Passionate about building scalable, secure, and intelligent applications while c
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/google_cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -91,7 +98,7 @@ Passionate about building scalable, secure, and intelligent applications while c
 ## 💼 Experience
 
 - **Python Programming Intern** — Infosys Springboard (Jun 2026 – Aug 2026)  
-  Built Smart Examination Monitoring Platform using Python, Flask, OpenCV, MediaPipe, YOLO & SQLite with real-time integrity analysis and analytics.
+  Built Smart Examination Monitoring Platform using Python, Flask, OpenCV, MediaPipe, YOLO & SQLite with real-time analysis and analytics dashboard.
 
 - **Front End Web Development Intern** — Edunet Foundation (AICTE) (Aug 2025 – Sep 2025)  
   Developed scalable React + TypeScript apps with real-time WebSocket architecture (100+ concurrent users) and CI/CD automation.
@@ -99,11 +106,8 @@ Passionate about building scalable, secure, and intelligent applications while c
 - **AI Transformative Learning Intern** — TechSaksham (Microsoft & SAP) (Nov 2024 – Dec 2024)  
   Built Face Recognition Attendance System with ~98% accuracy and reduced manual verification by ~60%.
 
-- **Security Research Intern** — Vital Skills (Jun 2024 – Jul 2024)  
-  Performed vulnerability analysis (SQLi, XSS) and built Python security tools including Network Packet Analyzer.
-
 - **AWS Student Builder Campus Leader** — Amazon Web Services (Sep 2026 – Present)  
-  Conducted 10+ cloud sessions and drove AWS Builder Center registrations.
+  Conducted 10+ cloud sessions and drove AWS Builder Center registrations. Building expertise in AWS services.
 
 - **Secretary** — Code Vidya (Coding Club), CSJMU (2025 – Present)  
   Leading workshops, hackathons, and open-source initiatives for 300+ students.
@@ -123,10 +127,6 @@ Full-stack RAG chatbot with vector database retrieval and LLM-powered responses.
 `React` `TypeScript` `FastAPI` `Socket.IO` `PostgreSQL`  
 Event-driven platform supporting 300+ concurrent users with live leaderboards and WebSockets.
 
-### 🔐 **Live Proctoring / Smart Examination Monitoring System**
-`Python` `Flask` `OpenCV` `YOLO` `MediaPipe`  
-Real-time face detection and suspicious activity monitoring with analytics dashboard.
-
 ### 📍 **Geo-Location Attendance System**
 `Python` `OpenCV` `Face Recognition` `MySQL`  
 Automated attendance with ~98% accuracy using facial recognition + geofencing.
@@ -135,11 +135,11 @@ Automated attendance with ~98% accuracy using facial recognition + geofencing.
 `Next.js` `Node.js` `REST APIs`  
 ATS-friendly resume builder + job/internship aggregation platform.
 
-### 🛡️ **Cyber Rakshak** — Cybercrime Awareness Platform
-`React` `Node.js` `MongoDB`  
-Gamified cybersecurity learning platform with 15+ scenario modules.
+### 🔐 **Live Proctoring / Smart Examination Monitoring System**
+`Python` `Flask` `OpenCV` `YOLO` `MediaPipe`  
+Real-time face detection and activity monitoring with analytics dashboard.
 
-**[View All Projects →](https://linktr.ee/Jatin_Project)**
+**[View All Projects →](https://linktr.ee/Jatin_Project)** | **[Open Source Journey →](https://jatinguptaportfolio.netlify.app/open-source)**
 
 ---
 
@@ -150,28 +150,36 @@ Gamified cybersecurity learning platform with 15+ scenario modules.
 - **Event Host & Organizer** — MLH Hacktoberfest Meetup & MLH Hack Day
 - **Event Lead** — HackShodh 2026 (200+ participants)
 - **NSS Mentor** — Digital Awareness Training (UPES Atal Unit)
+- **OSTHON’26 Open Source Challenge Lead** — Kanpur AI
 
 ### Hackathons
 - Ranked **13th** — Hack AI DevFest 2024
 - **2nd Runner-up** — Geek-Week Hackathon 2023
-- Hacktoberfest **Super Contributor** (20+ merged PRs)
+- Hacktoberfest **Super Contributor** (20+ merged PRs across multiple years)
 
-### Certifications
+### Certifications & Cloud
+- **Google Cloud Arcade 2× Legend** | **310+ GCP Badges** (Compute, Storage, Networking, Containers & more)
 - Microsoft Certified: **Fabric Data Engineer Associate**
 - **Oracle AI Vector Search** Certified Professional
-- Google Cloud Arcade **2× Legend** (50+ GCP Badges)
 - **Redis** Associate Cloud Operator
-- Cisco Networking Basics & Introduction to Cybersecurity
 - IBM SkillBuild AI Fundamentals
 - AWS SBCL 6-Week Programme Completion
+- Google Cloud Arcade Season achievements (Primary, Secondary & New accounts)
 
 ---
 
 ## 📫 Let's Connect!
 
 - **Portfolio:** [jatinguptaportfolio.netlify.app](https://jatinguptaportfolio.netlify.app)
+- **Professional Journey:** [jatin-professional-journey.netlify.app](https://jatin-professional-journey.netlify.app/)
+- **Cloud Profile (Arcade):** [jatingcpprofile.netlify.app](https://jatingcpprofile.netlify.app/)
 - **LinkedIn:** [linkedin.com/in/jatingupta09](https://www.linkedin.com/in/jatingupta09/)
 - **Email:** official.jatingupta09@gmail.com
 - **GitHub:** [github.com/jatin009v](https://github.com/jatin009v)
+- **Twitter:** [twitter.com/guptaji7932](https://twitter.com/guptaji7932)
+- **Dev.to:** [dev.to/jatin09](https://dev.to/jatin09)
+- **LeetCode:** [leetcode.com/u/jatin_009v](https://leetcode.com/u/jatin_009v/)
 
-*Open to collaborations on Full-Stack Development, Generative AI, Cloud, and Open Source.*
+*Open to collaborations on Full-Stack Development, Generative AI (RAG), DevOps, Cloud-Native architectures, and Open Source.*
+
+**Building the path towards Cloud Engineer + Full Stack Engineer** 🚀
